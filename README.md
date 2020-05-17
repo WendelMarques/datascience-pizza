@@ -26,7 +26,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
 
 <!-- toc -->
   * [Recomendações](#recomendacoes)
-      * [Iniciante](#iniciante)
+  * [Iniciante](#iniciante)
       * [Intermediário](#intermediario)
       * [Grandes projetos (big data)](#grandesprojetos)
       * [Em Python](#empython)
